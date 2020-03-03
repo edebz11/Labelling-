@@ -29,7 +29,6 @@ _[Example]_ The image is cut-off
 
 ## Enhancements procedure
 
-Come back to this...
 
 ## Continuous integration
 
